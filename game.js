@@ -44,3 +44,4 @@ document.addEventListener('mousemove', (e) => {
     
     player.style.left = `${newX}px`;
 }) ;
+
