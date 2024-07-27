@@ -37,3 +37,11 @@ body {
     font-size: 20px;
     font-family: Arial, sans-serif;
 }
+.bullet{
+    width:5px;
+    height: 20px;
+    background-color: yellow;
+    position: absolute;
+    border-radius:50%;
+}
+}
